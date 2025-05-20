@@ -2,7 +2,7 @@
 İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojisi Programı, İstanbul / Türkiye
 [https://orcid.org/0009-0008-2745-8085](https://orcid.org/0009-0008-2745-8085)
 
-# Yipit Ata Çankaya
+# Yiğit Ata Çankaya
 İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojisi Programı, İstanbul / Türkiye
 [Orcid ID: 0009-0008-2745-8085](https://orcid.org/0009-0009-8477-2094) 
 
